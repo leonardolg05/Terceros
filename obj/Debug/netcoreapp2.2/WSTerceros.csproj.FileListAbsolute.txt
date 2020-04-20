@@ -1,0 +1,14 @@
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.csproj.CoreCompileInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.AssemblyInfoInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.AssemblyInfo.cs
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\bin\Debug\netcoreapp2.2\WSTerceros.deps.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\bin\Debug\netcoreapp2.2\WSTerceros.runtimeconfig.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\bin\Debug\netcoreapp2.2\WSTerceros.runtimeconfig.dev.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\bin\Debug\netcoreapp2.2\WSTerceros.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.RazorAssemblyInfo.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.RazorAssemblyInfo.cs
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.RazorTargetAssemblyInfo.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\bin\Debug\netcoreapp2.2\WSTerceros.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSTerceros\WSTerceros\obj\Debug\netcoreapp2.2\WSTerceros.csprojAssemblyReference.cache
